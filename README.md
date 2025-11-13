@@ -82,13 +82,13 @@
     <h1>Vitor Nery</h1>
     <p>🎓 Estudante de Programação</p>
     <p>📍 Recife, Pernambuco</p>
-    <p>📧 <a href="mailto:vitor.nery@email.com" style="color:white;">vitor.nery@email.com</a></p>
+    <p>📧 <a href="mailto:vitorjmnery@cetii.pe.senac.br" style="color:white;">vitorjmnery@cetii.pe.senac.br gmail</a></p>
     <p>🌐 <a href="https://github.com/vitornery" style="color:white;">github.com/vitornery</a></p>
   </header>
 
   <section>
     <h2>👨‍💻 Sobre Mim</h2>
-    <p>Sou estudante de programação apaixonado por tecnologia e desenvolvimento de software. Atualmente curso <strong>TI Mediotec Senac</strong> e estou sempre buscando aprender novas linguagens e ferramentas para aprimorar minhas habilidades na área.</p>
+    <p>Sou estudante de programação, tecnologia, e desenvolvimento de software. Atualmente curso <strong>TI Mediotec Senac</strong> e estou buscando aprender novas linguagens e ferramentas para aprimorar minhas habilidades na área.</p>
   </section>
 
   <section>
@@ -130,11 +130,11 @@
   <section>
     <h2>📞 Contato</h2>
     <p>💬 Estou aberto a oportunidades de estágio e colaboração em projetos!  
-    Você pode entrar em contato por <a href="mailto:vitor.nery@email.com">e-mail</a> ou pelo <a href="https://linkedin.com/in/vitornery" target="_blank">LinkedIn</a>.</p>
+    Você pode entrar em contato por <a href="mailto:vitorjmnery@cetii.pe.senac.br">gmail</a> ou pelo <a href="https://linkedin.com/in/vitornery" target="_blank">LinkedIn</a>.</p>
   </section>
 
   <footer>
-    <p>© 2025 Vitor Nery — Criado com força e hospedado no GitHub Pages</p>
+    <p>© 2025 Vitor Nery — Criado e hospedado no GitHub Pages</p>
   </footer>
 </body>
 </html>
