@@ -130,7 +130,7 @@
   <section>
     <h2>📞 Contato</h2>
     <p>💬 Estou aberto a oportunidades de estágio e colaboração em projetos!  
-    Você pode entrar em contato por <a href="mailto:vitorjmnery@cetii.pe.senac.br">gmail</a> ou pelo <a href="https://linkedin.com/in/vitornery" target="_blank">LinkedIn</a>.</p>
+    Você pode entrar em contato por <a href="mailto:vitorjmnery@cetii.pe.senac.br">gmail</a>
   </section>
 
   <footer>
