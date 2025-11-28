@@ -94,11 +94,12 @@
   <section>
     <h2>🧠 Habilidades</h2>
     <ul>
-      <li>HTML, CSS e JavaScript</li>
-      <li>Gerenciamento de servidor, análise de componentes do computador, e habilidades básicas de redes.</li>
+      <li>HTML, C++ e Python</li>
+      <li>Gerenciamento de servidor
+        análise de componentes do computador
+         habilidades básicas de redes.</li>
       <li>Git e GitHub</li>
-      <li>Básico de React e Node.js</li>
-      <li>Banco de dados (MySQL / SQLite)</li>
+      <li>Inglês intermediário </li>
     </ul>
   </section>
 
