@@ -80,7 +80,7 @@
 <body>
   <header>
     <h1>Vitor Nery</h1>
-    <p>🎓 Estudante de Programação</p>
+    <p>🎓 Estudante de TI</p>
     <p>📍 Recife, Pernambuco</p>
     <p>📧 <a href="mailto:vitorjmnery@cetii.pe.senac.br" style="color:white;">vitorjmnery@cetii.pe.senac.br gmail</a></p>
     <p>🌐 <a href="https://github.com/vitornery" style="color:white;">github.com/vitornery</a></p>
@@ -88,14 +88,14 @@
 
   <section>
     <h2>👨‍💻 Sobre Mim</h2>
-    <p>Sou estudante de programação, tecnologia, e desenvolvimento de software. Atualmente curso <strong>TI Mediotec Senac</strong> e estou buscando aprender novas linguagens e ferramentas para aprimorar minhas habilidades na área.</p>
+    <p>Sou estudante de programação, Redes, e manutenção de hardware. Atualmente curso <strong>TI Mediotec Senac</strong> e estou buscando aprender novas linguagens e ferramentas para aprimorar minhas habilidades na área.</p>
   </section>
 
   <section>
     <h2>🧠 Habilidades</h2>
     <ul>
       <li>HTML, CSS e JavaScript</li>
-      <li>Python e lógica de programação</li>
+      <li>Gerenciamento de servidor, análise de componentes do computador, e habilidades básicas de redes.</li>
       <li>Git e GitHub</li>
       <li>Básico de React e Node.js</li>
       <li>Banco de dados (MySQL / SQLite)</li>
